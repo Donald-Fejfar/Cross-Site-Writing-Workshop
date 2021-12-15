@@ -8,8 +8,8 @@ The schedule, including the times of sessions in different time zones, Zoom deta
 
 ## Zoom Links
 - [Blue Session](https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09) 🟦
-- __Green:__ [https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09](https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09) 🟩
-- __Yellow:__ [https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09](https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09) 🟨
+- [Green Session](https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09) 🟩
+- [Yellow Session](https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09) 🟨
 
 # Course Instructors
 This course is being instructed by Bethany Hedt-Gauthier (Professor), Dale Barnhart (Post-doc), and Isabel Fulcher (Post-doc) of Harvard Medical School. Additional support is provided by Megan Murray (Professor, Harvard Medical School), Jean-Claude Mugunga (Partners In Health), and Donald Fejfar (Partners In Health).
