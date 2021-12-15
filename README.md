@@ -24,7 +24,7 @@ All teams were connected in October 2021 after project proposals were accepted a
 This site houses a number of resources for the course, including lecture slides and any additional useful materials. _Please do not share these materials outside of this course without contacting the course instructors._
 
 ## Additional Materials
-- _NA_
+- _NA_\\\
 
 ## Session 1: Course Intro, Results, Methods (Jan 17)
 - [Lecture 1: Introduction to Scientific Writing]()
