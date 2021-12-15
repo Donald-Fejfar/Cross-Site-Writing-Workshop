@@ -1,8 +1,8 @@
 # PIH Cross-site COVID-19 Writing Workshop
-This website houses materials for the January 2022 Partners In Health Cross-site COVID-19 Writing Workshop. The goal is to take participants from their proposed COVID-19-related research projects to a ready-to-submit manuscript in one week of full workshop days consisting of both working sessions and lectures. This writing training utilizes teams of senior mentors with extensive research experience, research assistants to support the project, and course participants with data, project ideas, and working expertise. The teams and projects can be found in this spreadsheet. Questions about this course may be directed to dfejfar@pih.org.
+This website houses materials for the January 2022 Partners In Health Cross-site COVID-19 Writing Workshop. The goal is to take participants from their proposed COVID-19-related research projects to a ready-to-submit manuscript in one week of full workshop days consisting of both working sessions and lectures. This writing training utilizes teams of senior mentors with extensive research experience, research assistants to support the project, and course participants with data, project ideas, and working expertise. The teams and projects can be found in [this spreadsheet](). Questions about this course may be directed to dfejfar@pih.org.
 
 # Schedule
-The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be found here. This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
+The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be [found here](). This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
 
 ## Zoom Links
 - __Blue:__ https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09
@@ -24,24 +24,25 @@ All teams were connected in October 2021 after project proposals were accepted a
 This site houses a number of resources for the course, including lecture slides and any additional useful materials. _Please do not share these materials outside of this course without contacting the course instructors._
 
 ## Additional Materials
+- _NA_
 
 ## Session 1: Course Intro, Results, Methods (Jan 17)
-- Lecture 1: Introduction to Scientific Writing
-- Lecture 2: Results
-- Lecture 3: Methods
+- [Lecture 1: Introduction to Scientific Writing]()
+- [Lecture 2: Results]()
+- [Lecture 3: Methods]()
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
-- Lecture 4: Discussion
-- Lecture 5: Introduction
-- Lecture 6: Plagiarism and references
+- [Lecture 4: Discussion]()
+- [Lecture 5: Introduction]()
+- [Lecture 6: Plagiarism and references]()
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
-- Lecture 7: Declarations
-- Lecture 8: Abstract
+- [Lecture 7: Declarations]()
+- [Lecture 8: Abstract]()
 
 ## Session 4: Live edits, Cover letters, Peer Review (Jan 20)
-- Lecture 9: Cover letter
-- Lecture 10: Peer Review
+- [Lecture 9: Cover letter]()
+- [Lecture 10: Peer Review]()
 
 ## Session 5: Live edits, Publication (Jan 21)
-- Lecture 11: Steps to publication
+- [Lecture 11: Steps to publication]()
