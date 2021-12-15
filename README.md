@@ -7,7 +7,7 @@ The shareable link to this site is: https://donald-fejfar.github.io/Cross-Site-W
 The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be [found here](CovCo_writing_workshop_scheduleonly.xlsx). This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
 
 ## Zoom Links
-- __Blue:__ [https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09](https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09) 🟦
+- [Blue Session](https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09) 🟦
 - __Green:__ [https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09](https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09) 🟩
 - __Yellow:__ [https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09](https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09) 🟨
 
