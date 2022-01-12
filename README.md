@@ -26,7 +26,7 @@ All teams were connected in October 2021 after project proposals were accepted a
 This site houses a number of resources for the course, including lecture slides and any additional useful materials. _Please do not share these materials outside of this course without contacting the course instructors._
 
 ## Additional Materials
-- _NA_
+- [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
 
 ## Session 1: Course Intro, Results, Methods (Jan 17)
 - [Lecture 1: Introduction to Scientific Writing]()
@@ -34,7 +34,7 @@ This site houses a number of resources for the course, including lecture slides 
 - [Lecture 3: Methods]()
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
-- [Lecture 4: Discussion]()
+- [Lecture 4: Discussion](CovCo_WW21_04_discussion.pdf)
 - [Lecture 5: Introduction]()
 - [Lecture 6: Plagiarism and references]()
 
