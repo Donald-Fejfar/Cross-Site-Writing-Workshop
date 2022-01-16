@@ -29,9 +29,9 @@ This site houses a number of resources for the course, including lecture slides 
 - [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
 
 ## Session 1: Course Intro, Results, Methods (Jan 17)
-- [Lecture 1: Introduction to Scientific Writing](CovCo_WW21_01_Intro_to_scientific_writing.pptx)
-- [Lecture 2: Results](CovCo_WW21_02_results.pptx)
-- [Lecture 3: Methods](CovCo_WW21_03_methods.pptx)
+- [Lecture 1: Introduction to Scientific Writing](lectures/CovCo_WW21_01_Intro_to_scientific_writing.pptx)
+- [Lecture 2: Results](lectures/CovCo_WW21_02_results.pptx)
+- [Lecture 3: Methods](lectures/CovCo_WW21_03_methods.pptx)
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
 - [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf)
