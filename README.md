@@ -1,9 +1,9 @@
 # PIH Cross-site COVID-19 Writing Workshop
 This website houses materials for the January 2022 Partners In Health Cross-site COVID-19 Writing Workshop. The goal is to take participants from their proposed COVID-19-related research projects to a ready-to-submit manuscript in one week of full workshop days consisting of both working sessions and lectures. This writing training utilizes teams of senior mentors with extensive research experience, research assistants to support the project, and course participants with data, project ideas, and working expertise. The teams and projects can be found in [this spreadsheet](Writing-Workshop-Teams.xlsx). Questions about this course may be directed to dfejfar@pih.org.
 
-The shareable link to this site is: https://donald-fejfar.github.io/Cross-Site-Writing-Workshop/.
+The shareable link to this site is: [https://donald-fejfar.github.io/Cross-Site-Writing-Workshop/](https://donald-fejfar.github.io/Cross-Site-Writing-Workshop/).
 
-The shareable link to team progress reports can be found here: https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing
+The shareable link to team progress reports can be found here: [https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing).
 
 # Schedule
 The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be [found here](CovCo_writing_workshop_scheduleonly.xlsx). This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
