@@ -27,10 +27,8 @@ All teams were connected in October 2021 after project proposals were accepted a
 # Course Materials
 This site houses a number of resources for the course, including lecture slides and any additional useful materials. _Please do not share these materials outside of this course without contacting the course instructors._
 
-Recordings of past lectures will be available [here](lectures) once they are posted.
-
 ## Session 1: Course Intro, Results, Methods (Jan 17)
-- [Lecture 1: Introduction to Scientific Writing](lectures/CovCo_WW21_01_Intro_to_scientific_writing.pdf)
+- [Lecture 1: Introduction to Scientific Writing](lectures/CovCo_WW21_01_Intro_to_scientific_writing.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/10KNfDObmyxtpArmkg5PB-hzvMnCUoCiB/view?usp=sharing).
 - [Lecture 2: Results](lectures/CovCo_WW21_02_results.pdf)
 - [Lecture 3: Methods](lectures/CovCo_WW21_03_methods.pdf)
 
