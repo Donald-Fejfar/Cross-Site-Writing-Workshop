@@ -3,13 +3,15 @@ This website houses materials for the January 2022 Partners In Health Cross-site
 
 The shareable link to this site is: https://donald-fejfar.github.io/Cross-Site-Writing-Workshop/.
 
+The shareable link to team progress reports can be found here: https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing
+
 # Schedule
 The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be [found here](CovCo_writing_workshop_scheduleonly.xlsx). This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
 
 ## Zoom Links
-- [Blue Session](https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09) 🟦
-- [Green Session](https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09) 🟩
-- [Yellow Session](https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09) 🟨
+- [Blue Session](https://harvard.zoom.us/j/98505900679?pwd=Qis2WUppVmtOd2xwb0phcHNjOGZqQT09) 🟦: 1:00 AM - 9:00 AM EST
+- [Green Session](https://harvard.zoom.us/j/91208078359?pwd=NXRRam1NdFR1NUdhcE4xYnhOcGRlZz09) 🟩: 9:00 AM - 1:00 PM EST
+- [Yellow Session](https://harvard.zoom.us/j/95480721400?pwd=RUVneTlmRG1IMnpFT1BRWjNWdCtLUT09) 🟨: 2:00 PM - 8:00 PM EST
 
 # Course Instructors
 This course is being instructed by Bethany Hedt-Gauthier (Professor), Dale Barnhart (Post-doc), and Isabel Fulcher (Post-doc) of Harvard Medical School. Additional support is provided by Megan Murray (Professor, Harvard Medical School), Jean-Claude Mugunga (Partners In Health), and Donald Fejfar (Partners In Health).
@@ -25,9 +27,6 @@ All teams were connected in October 2021 after project proposals were accepted a
 # Course Materials
 This site houses a number of resources for the course, including lecture slides and any additional useful materials. _Please do not share these materials outside of this course without contacting the course instructors._
 
-## Additional Materials
-- [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
-
 ## Session 1: Course Intro, Results, Methods (Jan 17)
 - [Lecture 1: Introduction to Scientific Writing](lectures/CovCo_WW21_01_Intro_to_scientific_writing.pdf)
 - [Lecture 2: Results](lectures/CovCo_WW21_02_results.pdf)
@@ -37,6 +36,9 @@ This site houses a number of resources for the course, including lecture slides 
 - [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf)
 - [Lecture 5: Introduction]()
 - [Lecture 6: Plagiarism and references]()
+
+#### Additional Materials
+- [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)'
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
 - [Lecture 7: Declarations]()
