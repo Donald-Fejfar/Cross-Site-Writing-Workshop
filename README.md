@@ -29,8 +29,8 @@ This site houses a number of resources for the course, including lecture slides 
 
 ## Session 1: Course Intro, Results, Methods (Jan 17)
 - [Lecture 1: Introduction to Scientific Writing](lectures/CovCo_WW21_01_Intro_to_scientific_writing.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/10KNfDObmyxtpArmkg5PB-hzvMnCUoCiB/view?usp=sharing).
-- [Lecture 2: Results](lectures/CovCo_WW21_02_results.pdf)
-- [Lecture 3: Methods](lectures/CovCo_WW21_03_methods.pdf)
+- [Lecture 2: Results](lectures/CovCo_WW21_02_results.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1HF9tbiS8wmVqYA4gBguOWlxz4qhoCUOM/view?usp=sharing).
+- [Lecture 3: Methods](lectures/CovCo_WW21_03_methods.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1Rz9fRpWPnRtDvuMFdhYYHJ7OrH0329mS/view?usp=sharing).
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
 - [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf)
