@@ -35,9 +35,9 @@ This site houses a number of resources for the course, including lecture slides 
 - [Lecture 3: Methods](lectures/CovCo_WW21_03_methods.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1Rz9fRpWPnRtDvuMFdhYYHJ7OrH0329mS/view?usp=sharing).
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
-- [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf)
-- [Lecture 5: Introduction](lectures/CovCo_WW21_05_introduction.pdf)
-- [Lecture 6: Plagiarism and references](lectures/CovCo_WW21_06_plagarism.pdf)
+- [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1sNnN1Dn9__lRsKQEGpyUnVCGlJC_0vtZ/view?usp=sharing).
+- [Lecture 5: Introduction](lectures/CovCo_WW21_05_introduction.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1Br47dsi4rGIQ3CC3ABLjA3wF6tUkj7e5/view?usp=sharing).
+- [Lecture 6: Plagiarism and references](lectures/CovCo_WW21_06_plagarism.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1LpB6SC9HxlsDTU8wrEhHr9NxzeI3sNbB/view?usp=sharing).
 
 #### Additional Materials
 - [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
