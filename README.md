@@ -39,7 +39,7 @@ This site houses a number of resources for the course, including lecture slides 
 
 #### Additional Materials
 - [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
-- [Discussion MadLibs](additional-resources/Discussion MadLibs.docx)
+- [Discussion MadLibs](additional-resources/Discussion-MadLibs.docx)
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
 - [Lecture 7: Declarations]()
