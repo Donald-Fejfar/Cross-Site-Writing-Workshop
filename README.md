@@ -44,8 +44,11 @@ This site houses a number of resources for the course, including lecture slides 
 - [Discussion MadLibs](additional-resources/Discussion-MadLibs.docx)
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
-- [Lecture 7: Declarations]()
-- [Lecture 8: Abstract]()
+- [Lecture 7: Declarations](lectures/CovCo_WW21_07_authorship_declarations.pdf)
+- [Lecture 8: Abstract](lectures/CovCo_WW21_08_abstracts.pdf)
+
+#### Additional Materials
+- [Declarations Document](additional-materials/Declarations.docx)
 
 ## Session 4: Live edits, Cover letters, Peer Review (Jan 20)
 - [Lecture 9: Cover letter]()
