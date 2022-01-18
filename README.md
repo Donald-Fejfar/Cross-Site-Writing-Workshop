@@ -34,11 +34,12 @@ This site houses a number of resources for the course, including lecture slides 
 
 ## Session 2: Discussion, Introduction, References (Jan 18)
 - [Lecture 4: Discussion](lectures/CovCo_WW21_04_discussion.pdf)
-- [Lecture 5: Introduction]()
-- [Lecture 6: Plagiarism and references]()
+- [Lecture 5: Introduction](lectures/CovCo_WW21_05_introduction.pdf)
+- [Lecture 6: Plagiarism and references](lectures/CovCo_WW21_06_plagarism.pdf)
 
 #### Additional Materials
-- [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)'
+- [How to Write a Discussion Section](https://www.scribbr.com/dissertation/discussion/)
+- [Discussion MadLibs](additional-resources/Discussion MadLibs.docx)
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
 - [Lecture 7: Declarations]()
