@@ -51,8 +51,8 @@ This site houses a number of resources for the course, including lecture slides 
 - [Declarations Document](additional-resources/Declarations.docx)
 
 ## Session 4: Live edits, Cover letters, Peer Review (Jan 20)
-- [Lecture 9: Cover letter](lectures/CovCo_WW21_09_coverletter.pdf)
-- [Lecture 10: Peer Review](lectures/CovCo_WW21_10_peerreview.pdf)
+- [Lecture 9: Cover letter](lectures/CovCo_WW21_09_coverletter.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1TAsKC9F9xOfygpz37-0zAl172hOFyZmr/view?usp=sharing).
+- [Lecture 10: Peer Review](lectures/CovCo_WW21_10_peerreview.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1pOa0rRqEpX19kbcpAAR6hBeZioP4ayl2/view?usp=sharing).
 
 ## Session 5: Live edits, Publication (Jan 21)
 - [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publication.pdf)
