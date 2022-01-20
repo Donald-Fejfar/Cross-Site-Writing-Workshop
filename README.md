@@ -5,7 +5,7 @@ The shareable link to this site is: [https://donald-fejfar.github.io/Cross-Site-
 
 The shareable link to team progress reports can be found here: [https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1HRUquJbXyzWZdKR0A1IklwUC0YaBSg07B1mNBDO9rp4/edit?usp=sharing).
 
-![](additional-resources/serious-image.png) ![](additional-resources/silly-image.png)
+![](additional-resources/serious-image_rev.png) ![](additional-resources/silly-image_rev.png)
 
 # Schedule
 The schedule, including the times of sessions in different time zones, Zoom details, and the schedule of content (lectures and workshop), can be [found here](CovCo_writing_workshop_scheduleonly.xlsx). This schedule consists primarily of three chunks of time: Blue (Early), Green, and Yellow (Late). The Green sessions are a consistent time shared between all participants, where all team members from all teams are expected to be in attendance. The Blue and Yellow sessions are extra workshopping times to get daily tasks done, and teams should attend based on their time zones and the schedule above. RAs and Senior Mentors will mix their time to effectively cover the full schedule during these extended hours. 
