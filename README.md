@@ -44,15 +44,15 @@ This site houses a number of resources for the course, including lecture slides 
 - [Discussion MadLibs](additional-resources/Discussion-MadLibs.docx)
 
 ## Session 3: Live edits, Declarations, Abstracts (Jan 19)
-- [Lecture 7: Declarations](lectures/CovCo_WW21_07_authorship_declarations.pdf)
-- [Lecture 8: Abstract](lectures/CovCo_WW21_08_abstracts.pdf)
+- [Lecture 7: Declarations](lectures/CovCo_WW21_07_authorship_declarations.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1LDXmENzpRqRsIcPzPB05TE_ohZwHIRSp/view?usp=sharing).
+- [Lecture 8: Abstract](lectures/CovCo_WW21_08_abstracts.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/19tNd9O73M7RJvcq1RENVIOXLNuOINa34/view?usp=sharing).
 
 #### Additional Materials
 - [Declarations Document](additional-resources/Declarations.docx)
 
 ## Session 4: Live edits, Cover letters, Peer Review (Jan 20)
-- [Lecture 9: Cover letter]()
-- [Lecture 10: Peer Review]()
+- [Lecture 9: Cover letter](lectures/CovCo_WW21_09_coverletter.pdf)
+- [Lecture 10: Peer Review](lectures/CovCo_WW21_10)peerreview.pdf)
 
 ## Session 5: Live edits, Publication (Jan 21)
 - [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publication.pdf)
