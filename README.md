@@ -59,4 +59,5 @@ This site houses a number of resources for the course, including lecture slides 
 
 #### Additional Materials
 - [Journals and Reviewers Brainstorm](additional-resources/Paper_Brainstorm_Journals-and-Reviewers.docx)
+- [Example Response to Reviewers](additional-resources/GHA_rebuttal_letter_4jun2021.docx)
 
