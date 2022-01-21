@@ -58,5 +58,5 @@ This site houses a number of resources for the course, including lecture slides 
 - [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publications.pdf)
 
 #### Additional Materials
-- [Journals and Reviewers Brainstorm](additional-resources/Paper Brainstorm_Journals and Reviewers.docx)
+- [Journals and Reviewers Brainstorm](additional-resources/Paper_Brainstorm_Journals-and-Reviewers.docx)
 
