@@ -56,3 +56,7 @@ This site houses a number of resources for the course, including lecture slides 
 
 ## Session 5: Live edits, Publication (Jan 21)
 - [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publications.pdf)
+
+#### Additional Materials
+- [Discussion MadLibs](additional-resources/Paper Brainstorm_Journals and Reviewers.docx)
+
