@@ -55,9 +55,12 @@ This site houses a number of resources for the course, including lecture slides 
 - [Lecture 10: Peer Review](lectures/CovCo_WW21_10_peerreview.pdf): the lecture recording can be found [here](https://drive.google.com/file/d/1pOa0rRqEpX19kbcpAAR6hBeZioP4ayl2/view?usp=sharing).
 
 ## Session 5: Live edits, Publication (Jan 21)
-- [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publications.pdf)
+- [Lecture 11: Steps to publication](CovCo_WW21_11_Steps_to_publications.pdf): the lecture recording can be found [here - part A](https://drive.google.com/file/d/146sqIObP1iV9DS2uzsPcHPjtA7bkDfoK/view?usp=sharing) and [here - part B](https://drive.google.com/file/d/1h7qJbVjefQtTiczff85mVDIGh58vPKln/view?usp=sharing).
 
 #### Additional Materials
 - [Journals and Reviewers Brainstorm](additional-resources/Paper_Brainstorm_Journals-and-Reviewers.docx)
 - [Example Response to Reviewers](additional-resources/GHA_rebuttal_letter_4jun2021.docx)
+
+## Closing Celebration
+A link to our closing celebration on Jan 21st can be found [here](https://drive.google.com/file/d/15TgP8oQ6srtaNWcMw7V7Hr9OQO1tmuK1/view?usp=sharing).
 
