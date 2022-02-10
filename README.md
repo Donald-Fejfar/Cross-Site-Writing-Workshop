@@ -61,7 +61,7 @@ This site houses a number of resources for the course, including lecture slides 
 - [Journals and Reviewers Brainstorm](additional-resources/Paper_Brainstorm_Journals-and-Reviewers.docx)
 - [Example Response to Reviewers](additional-resources/GHA_rebuttal_letter_4jun2021.docx)
 - Poster Presentations: the recording to a presentation at our Cross-Site Research Meeting can be found [here](https://drive.google.com/file/d/1_9YNnXYVPVPYDcE0N-PR1KXNj6Qiz8tj/view?usp=sharing).
-- Poster Templates: A poster template provided by the PIH Impact team can be found [here:]()
+- Poster Templates: A poster template provided by the PIH Impact team can be found [here:](additional-resources/Template_Research Posters_WF presentation support.pptx)
 
 ## Closing Celebration
 A link to our closing celebration on Jan 21st can be found [here](https://drive.google.com/file/d/15TgP8oQ6srtaNWcMw7V7Hr9OQO1tmuK1/view?usp=sharing).
